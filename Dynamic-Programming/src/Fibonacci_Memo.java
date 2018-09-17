@@ -1,5 +1,5 @@
 
-public class Fibonacci {
+public class Fibonacci_Memo {
 	static int memo[], result;
 	public static void main(String[] args) {
 		int n = 47; 
